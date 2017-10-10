@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="struts21-core">
+    <CLASSES>
+      <root url="file://D:/___QuickDevelop/___Lib/struts21-core" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/___QuickDevelop/___Lib/struts21-core" recursive="false" />
+  </library>
+</component>
