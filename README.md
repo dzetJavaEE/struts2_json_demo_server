@@ -1,0 +1,2 @@
+# struts2_json_demo_server
+struts2_json_demo_server，指定类成员json返回。
